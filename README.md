@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm Tamanniv 👋
+I'm a CSE student trying to learn stuff I find cool
 
-<!--
-**Tamanniv/Tamanniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages I Know:
+  • C
+  • C++
+  • Java
+  • Python
+  • Arduino
 
-Here are some ideas to get you started:
+Tools I Use:
+  • Visual Studio Code (VS Code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with Me:
+  • LinkedIn
